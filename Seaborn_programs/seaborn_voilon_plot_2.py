@@ -4,7 +4,7 @@
 @Date: 2024-07-09
 @Last Modified by: 
 @Last Modified time:
-@Title : Program to draw point plot of sex against total_bill for a dataset given in the url.
+@Title : Program to draw point plot of species against sepal_length for a dataset given in the url.
 
 """
 
@@ -17,7 +17,7 @@ def seaborn_voilon_plot():
     """
 
     description:
-        This function is used to draw point plot of sex against total_bill for a dataset given in the url.
+        This function is used to draw point plot of species against sepal_length for a dataset given in the url.
     
     parameters:
         None  
